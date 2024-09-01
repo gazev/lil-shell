@@ -130,6 +130,7 @@ func main() {
 					}
 				}
 				lr = 1
+				break
 			}
 			lr = 0
 		case "lr":
